@@ -19,5 +19,5 @@ In my spare time I enjoy dancing, hanging out with my friends, listening to musi
 
 While my background and my interest in digital marketing is what initially drew me to **Digital Humanities**. I am excited to learn about the field and how I can use this knowledge in my career!
 
-If you want to see more from me you can follow my **[Twitter]**(https://twitter.com/ashley_mentz)
+If you want to see more from me you can follow my **[Twitter](https://twitter.com/ashley_mentz)
 
