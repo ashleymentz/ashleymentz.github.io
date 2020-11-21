@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grant Blog #1
+title: My First Grant Proposal Update
 ---
 I am writing a grant proposal on a Digital Humanities project where I am educating people on how to make their social media more accessible. I am teaching people how to use closed-captions, alt-text, and overall formatting guidelines through tutorials that I create. I intend to make my project interactive through these tutorials much like the [Markdown Tutorial](https://www.markdowntutorial.com/) that we used early on in the class. Making tutorials is crucial to this project because I want people that use my project to see the practical uses of the accessibility that I’m talking about as well as learn how to apply them in real time.
 
